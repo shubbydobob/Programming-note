@@ -11,27 +11,32 @@
             "id": "4a74ddd5068349df",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
-            }
-          },
-          {
-            "id": "8e4d1cc9debac446",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "대소문자 바꾸기.md",
+                "file": "문자열 String.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "대소문자 바꾸기"
+              "title": "문자열 String"
+            }
+          },
+          {
+            "id": "c436077a7ba545a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "사칙연산.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "사칙연산"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5d68aeb3a61018c6",
@@ -104,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "사칙연산.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "사칙연산 의 백링크"
             }
           },
           {
@@ -122,11 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "문자열 String.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "문자열 String 의 나가는 링크"
             }
           },
           {
@@ -150,20 +158,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "문자열 String.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "문자열 String 의 개요"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,18 +181,20 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2877e1b1c53ac7a3",
+  "active": "c436077a7ba545a4",
   "lastOpenFiles": [
-    "대소문자 바꾸기.md",
-    "Pasted image 20250731002133.png",
+    "사칙연산.md",
     "문자열 String.md",
+    "대소문자 바꾸기.md",
+    "Welcome.md",
+    "Pasted image 20250731002133.png",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "create a link.md",
-    "Welcome.md"
+    "create a link.md"
   ]
 }
