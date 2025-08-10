@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문자열 String.md",
+                "file": "programming/인스턴스.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "문자열 String"
+              "title": "인스턴스"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/IO연산과 CPU 연산의 차이.md",
+                "file": "baekjoon/백준 문제 10926번.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IO연산과 CPU 연산의 차이"
+              "title": "백준 문제 10926번"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5d68aeb3a61018c6",
@@ -185,12 +183,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c436077a7ba545a4",
+  "active": "4a74ddd5068349df",
   "lastOpenFiles": [
-    "baekjoon/백준 문제 10430번 나머지.md",
-    "programming/IO연산과 CPU 연산의 차이.md",
-    "README.md",
+    "programming/무분별한 static 사용 자제 (메모리 누수 가능).md",
+    "programming/인스턴스.md",
     "baekjoon/백준 문제 10926번.md",
+    "README.md",
+    "programming/JVM.md",
+    "programming/IO연산과 CPU 연산의 차이.md",
+    "baekjoon/백준 문제 10430번 나머지.md",
     "무제.md",
     "무제",
     "baekjoon/백준 문제 10869번 사칙연산.md",
