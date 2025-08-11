@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/Could not find acceptable representation.md",
+                "file": "common errors/You have an error in your SQL syntax.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Could not find acceptable representation"
+              "title": "You have an error in your SQL syntax"
             }
           }
         ],
@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 231.5
   },
   "right": {
     "id": "5d68aeb3a61018c6",
@@ -212,11 +212,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c746f93871f72f6",
+  "active": "2877e1b1c53ac7a3",
   "lastOpenFiles": [
+    "common errors/Could not find acceptable representation.md",
+    "common errors/You have an error in your SQL syntax.md",
+    "common errors",
     "programming/무분별한 static 사용 자제 (메모리 누수 가능).md",
     "programming/문자열 String.md",
-    "programming/Could not find acceptable representation.md",
     "백준 문제 1919 애너그램 만들기.md",
     "v-for.md",
     "programming/인스턴스.md",
