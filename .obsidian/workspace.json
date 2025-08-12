@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "baekjoon/백준 문제 2588번 곱셈.md",
+                "file": "baekjoon/백준 문제 11382번 꼬마 정민.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "백준 문제 2588번 곱셈"
+              "title": "백준 문제 11382번 꼬마 정민"
             }
           },
           {
@@ -186,8 +186,9 @@
   },
   "active": "4a74ddd5068349df",
   "lastOpenFiles": [
-    "programming/인스턴스.md",
     "baekjoon/백준 문제 2588번 곱셈.md",
+    "baekjoon/백준 문제 11382번 꼬마 정민.md",
+    "programming/인스턴스.md",
     "common errors/You have an error in your SQL syntax.md",
     "common errors/Could not find acceptable representation.md",
     "common errors",
