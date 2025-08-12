@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "baekjoon/백준 문제 11382번 꼬마 정민.md",
+                "file": "baekjoon/백준 문제 1157번 단어 공부.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "백준 문제 11382번 꼬마 정민"
+              "title": "백준 문제 1157번 단어 공부"
             }
           },
           {
@@ -186,8 +186,9 @@
   },
   "active": "4a74ddd5068349df",
   "lastOpenFiles": [
-    "baekjoon/백준 문제 2588번 곱셈.md",
     "baekjoon/백준 문제 11382번 꼬마 정민.md",
+    "baekjoon/백준 문제 1157번 단어 공부.md",
+    "baekjoon/백준 문제 2588번 곱셈.md",
     "programming/인스턴스.md",
     "common errors/You have an error in your SQL syntax.md",
     "common errors/Could not find acceptable representation.md",
