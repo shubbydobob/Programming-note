@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "baekjoon/백준 문제 10171번 고양이.md",
+                "file": "baekjoon/백준 문제 2884번 알람 시계.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "백준 문제 10171번 고양이"
+              "title": "백준 문제 2884번 알람 시계"
             }
           },
           {
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5,
-    "collapsed": true
+    "width": 281.5
   },
   "right": {
     "id": "5d68aeb3a61018c6",
@@ -186,8 +185,9 @@
   },
   "active": "4a74ddd5068349df",
   "lastOpenFiles": [
-    "baekjoon/백준 문제 1157번 단어 공부.md",
     "baekjoon/백준 문제 10171번 고양이.md",
+    "baekjoon/백준 문제 2884번 알람 시계.md",
+    "baekjoon/백준 문제 1157번 단어 공부.md",
     "programming/날짜 정렬에 long을 쓰닌 이유.md",
     "programming/v-for문에서 해당 범위의 년도 Dropdwond에 나타내기.md",
     "programming/int 초 단위 시간을 String 포맷으로 바꾸기.md",
@@ -216,7 +216,6 @@
     "baekjoon/백준 문제 10926번 놀람 추가.md",
     "baekjoon",
     "새 폴더",
-    "programming/문자열 String.md",
     "programming",
     "back",
     "Pasted image 20250731002133.png",
