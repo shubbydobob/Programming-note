@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "baekjoon/백준 문제 2884번 알람 시계.md",
+                "file": "baekjoon/백준 문제 2480번 주사위 세개.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "백준 문제 2884번 알람 시계"
+              "title": "백준 문제 2480번 주사위 세개"
             }
           },
           {
@@ -185,8 +185,10 @@
   },
   "active": "4a74ddd5068349df",
   "lastOpenFiles": [
-    "baekjoon/백준 문제 10171번 고양이.md",
+    "baekjoon/백준 문제 2525번 오븐 시계.md",
+    "baekjoon/백준 문제 2480번 주사위 세개.md",
     "baekjoon/백준 문제 2884번 알람 시계.md",
+    "baekjoon/백준 문제 10171번 고양이.md",
     "baekjoon/백준 문제 1157번 단어 공부.md",
     "programming/날짜 정렬에 long을 쓰닌 이유.md",
     "programming/v-for문에서 해당 범위의 년도 Dropdwond에 나타내기.md",
@@ -211,9 +213,7 @@
     "baekjoon/백준 문제 10869 사직연산.md",
     "Welcome.md",
     "baekjoon/백준 문제 2744번 대소문자 바꾸기.md",
-    "baekjoon/백준 문제 18108번 서기 연도 변환.md",
     "programming",
-    "baekjoon/백준 문제 10926번 놀람 추가.md",
     "baekjoon",
     "새 폴더",
     "programming",
