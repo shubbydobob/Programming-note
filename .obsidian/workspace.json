@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/에러 처리/Excetion 계열 종류.md",
+                "file": "baekjoon/백준 문제 2438번 별 찍기 - 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Excetion 계열 종류"
+              "title": "백준 문제 2438번 별 찍기 - 1"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 340.5
   },
   "right": {
     "id": "5d68aeb3a61018c6",
@@ -173,36 +172,36 @@
   },
   "active": "4a74ddd5068349df",
   "lastOpenFiles": [
-    "programming/HTTP 응답 처리/ResponseEntity.md",
+    "baekjoon/백준 문제 10926번.md",
+    "baekjoon/백준 문제 2438번 별 찍기 - 1.md",
+    "baekjoon/백준 문제 11382번 꼬마 정민.md",
+    "baekjoon/백준 문제 18108번 서기 연도 변환.md",
+    "baekjoon/백준 문제 2480번 주사위 세개.md",
+    "baekjoon/백준 문제 1157번 단어 공부.md",
+    "baekjoon/백준 문제 1919번 애너그램 만들기.md",
+    "baekjoon/백준 문제 10869 사칙연산.md",
     "programming/에러 처리/Excetion 계열 종류.md",
+    "programming/HTTP 응답 처리/ResponseEntity.md",
     "programming/에러 처리",
     "programming/Vue3/Vue 3.md",
     "programming/HTTP 응답 처리",
     "programming/무제.md",
     "programming/v-for문에서 해당 범위의 년도 Dropdwond에 나타내기.md",
-    "baekjoon/백준 문제 2480번 주사위 세개.md",
     "baekjoon/백준 문제 2525번 오븐 시계.md",
     "baekjoon/백준 문제 2884번 알람 시계.md",
     "baekjoon/백준 문제 10171번 고양이.md",
-    "baekjoon/백준 문제 1157번 단어 공부.md",
     "programming/날짜 정렬에 long을 쓰닌 이유.md",
     "programming/int 초 단위 시간을 String 포맷으로 바꾸기.md",
     "programming/Map과 DTO 비교.md",
-    "baekjoon/백준 문제 11382번 꼬마 정민.md",
     "baekjoon/백준 문제 2588번 곱셈.md",
     "programming/인스턴스.md",
     "common errors/You have an error in your SQL syntax.md",
     "common errors/Could not find acceptable representation.md",
     "common errors",
     "programming/무분별한 static 사용 자제 (메모리 누수 가능).md",
-    "baekjoon/백준 문제 10926번.md",
     "README.md",
     "programming/JVM.md",
-    "programming/IO연산과 CPU 연산의 차이.md",
-    "baekjoon/백준 문제 10430번 나머지.md",
-    "무제.md",
     "무제",
-    "baekjoon/백준 문제 10869번 사칙연산.md",
     "programming",
     "baekjoon",
     "새 폴더",
